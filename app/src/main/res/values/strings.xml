@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="texto">Selecciona un color</string>
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="blanco">Blanco</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="SalirMenu">Salir</string>
+    <string name="SaludoMenu">Saludo</string>
+</resources>
