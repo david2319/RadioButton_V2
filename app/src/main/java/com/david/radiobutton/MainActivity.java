@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements RadioGroup.OnCheckedChangeListener {
 
-    //modificacion desde web
+
     //private RadioButton rr, rv, ra;
     private RadioGroup rg;
     private RelativeLayout rl;
